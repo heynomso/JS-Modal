@@ -77,4 +77,14 @@ body {
     top: 50%;
     opacity: 1;
   }
+}
+@media only screen and (max-width: 600px) {
+  #modal {
+    left: 20%;
+    width: 200px;
+    height: 100px;
+  }
+  #open-btn {
+    width: 300px;
+  }
 }/*# sourceMappingURL=style.css.map */
